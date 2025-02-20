@@ -1,6 +1,6 @@
  <h1> Hey! Nice to see you 👋🏻</h1>
 
-- My name is <b>Ulyana</b> and I am a <b>Python Developer</b>
+- My name is <b>Ulyana</b> and I am a <b>Fullstack Developer</b>
 - I'm from <b>Minsk, Belarus</b>
 - I speak <b>Russian</b> as my native language, have an intermediate level of <b>English</b>, and know a bit of <b>Polish</b>
 - I have a driver's license
