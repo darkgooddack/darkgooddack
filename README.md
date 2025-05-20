@@ -2,7 +2,7 @@
 
 - My name is <b>Ulyana</b> and I am a <b>Fullstack Developer</b>
 - I'm from <b>Minsk, Belarus</b>
-- I speak <b>Russian</b> as my native language, have an intermediate level of <b>English</b>, and know a bit of <b>Polish</b>
+- I speak <b>Russian</b> as my native language, have an Upper-Intermediate level of <b>English</b>, and know a bit of <b>Polish</b>
 - I have a driver's license
 
 ### Things I code with
@@ -36,25 +36,6 @@
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=darkgooddack&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical)](https://github.com/darkgooddack/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=darkgooddack&layout=compact&theme=radical)](https://github.com/darkgooddack/github-readme-stats)
 
-
-
-### Get in touch
-- LinkedIn: [Ulyana Pitsukha](https://www.linkedin.com/in/ulyanapitsukha/)
-- GitHub: [darkgooddack](https://github.com/darkgooddack)
-- Email: [ulyanaworkpage@gmail.com](mailto:ulyanaworkpage@gmail.com)
-- Telegram: [lost_wandering](https://t.me/lost_wandering)
-<br></br> 
-### Solidex - Information Security Analyst
-*Oct 2024 – Dec 2024*
-- Developed Docker containers for various services, from creating Dockerfiles to building images 
-- Configured the network infrastructure of containers, ensuring their connection to each other and to external networks
-<br></br>
-### Belarusian State University of Informatics and Radio Electronics
-*September 2022 - June 2026*  
-
-**Educational institution:** Belarusian State University of Informatics and Radioelectronics branch Minsk Radio Engineering College   
-**Specialty:** Software Engineering  
-**Degree:** Diploma of secondary specialized education in the field of information technology software
 
 
 
