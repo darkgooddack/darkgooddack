@@ -1,6 +1,6 @@
  <h1> Hey! Nice to see you 👋🏻</h1>
 
-- My name is <b>Ulyana</b> and I am a <b>Fullstack Developer</b>
+- My name is <b>Ulyana</b> and I am a <b>Python Developer</b>
 - I'm from <b>Minsk, Belarus</b>
 - I speak <b>Russian</b> as my native language, have an Upper-Intermediate level of <b>English</b>, and know a bit of <b>Polish</b>
 - I have a driver's license
@@ -30,7 +30,7 @@
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=darkgooddack&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical)](https://github.com/darkgooddack/github-readme-stats)
