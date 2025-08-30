@@ -37,8 +37,8 @@
   <img alt="ClickHouse" src="https://img.shields.io/badge/-ClickHouse-FFCC00?style=flat-square&logo=clickhouse&logoColor=black" />
 </p>
 
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=darkgooddack&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical)](https://github.com/darkgooddack/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=darkgooddack&layout=compact&theme=radical)](https://github.com/darkgooddack/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=darkgooddack&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=default)](https://github.com/darkgooddack/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=darkgooddack&layout=compact&theme=default)](https://github.com/darkgooddack/github-readme-stats)
 
 
 
