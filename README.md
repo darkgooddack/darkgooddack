@@ -2,8 +2,7 @@
 
 - My name is <b>Ulyana</b> and I am a <b>Python Developer</b>
 - I'm from <b>Minsk, Belarus</b>
-- I speak <b>Russian</b> as my native language, have an Upper-Intermediate level of <b>English</b>, and know a bit of <b>Polish</b>
-- I have a driver's license
+- I speak <b>Russian</b> as my native language, have an Upper-Intermediate level of <b>English</b>
 
 ### Things I code with
 <p>
@@ -16,6 +15,7 @@
   <img alt="docker-compose" src="https://img.shields.io/badge/-docker--compose-3C3C3D?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-4B8BBE?style=flat-square&logo=sqlalchemy&logoColor=white" />
+  <img alt="Tortoise ORM" src="https://img.shields.io/badge/-Tortoise%20ORM-2C5BB4?style=flat-square&logo=python&logoColor=white" /> 
   <img alt="Pydantic" src="https://img.shields.io/badge/-Pydantic-005571?style=flat-square&logo=pydantic&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -31,6 +31,9 @@
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img alt="Memcached" src="https://img.shields.io/badge/-Memcached-3C3C3D?style=flat-square&logo=databricks&logoColor=white" />
+  <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
+  <img alt="ClickHouse" src="https://img.shields.io/badge/-ClickHouse-FFCC00?style=flat-square&logo=clickhouse&logoColor=black" />
 </p>
 
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=darkgooddack&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=radical)](https://github.com/darkgooddack/github-readme-stats)
