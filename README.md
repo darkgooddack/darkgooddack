@@ -41,3 +41,11 @@
 - **Изучаю Go, Kubernetes и облачные решения:** разработка высоконагруженных распределённых систем, оптимизация производительности, управление инфраструктурой через манифесты Kubernetes и облачные сервисы для масштабируемости и надёжности.
 
 
+## GitHub статистика
+
+<div align="center">
+ 
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=darkgooddack&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=default)](https://github.com/darkgooddack/github-readme-stats)
+ 
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=darkgooddack&layout=compact&theme=default)](https://github.com/darkgooddack/github-readme-stats)
+</div>
