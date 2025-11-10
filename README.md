@@ -6,6 +6,11 @@
   Привет!<br>Я Ульяна — backend-разработчик
 </h1>
 
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/belarus/darkgooddack.svg)](https://user-badge.committers.top/belarus/darkgooddack)
+
+</div>
 
 ## О себе
 
